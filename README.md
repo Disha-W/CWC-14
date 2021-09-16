@@ -1,1 +1,3 @@
-# CWC-14
+# CWC-14 
+Tech - Stack used:
+Python
